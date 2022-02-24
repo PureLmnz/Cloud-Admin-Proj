@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in scaling my front end web development skills and continuing to
 live a life i am passionate about. 
-- 🌱 I’m currently learning ... Front end development before scaling to back end and blockchain dev
-- 💞️ I’m looking to collaborate on essentially any project that could advance my skillset and knowledge 
-which at this point is just about anything 
+- 🌱 I’m currently learning ... Front end development (html, css js, bootstrap , react solidity )before scaling fullstack and blockchain dev
+- 💞️ I’m looking to collaborate on essentially any project or task that could advance my skillset and knowledge, that i can ultimately grow my
+- programming skills daily!
 - 📫 i can be reached via PureLmnz@Gmail.com
 
 <!---
