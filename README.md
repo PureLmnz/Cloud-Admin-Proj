@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @PureLmnz 🍋📈😁
 
-- 👀 I’m interested in scaling my front end web development skills and continuing to
-live a life i am passionate about. 
-- 🌱 I’m currently learning ... Front end development (html, css js, bootstrap , react solidity )before scaling fullstack and blockchain dev
-- 💞️ I’m looking to collaborate on essentially any project or task that could advance my skillset and knowledge, that i can ultimately grow my
+- 👀 I’m interested in scaling my front end web development skills into a full stack / blockchain focused skillset
+ While continuing to lead a lifestype I am passionate about. 
+- 🌱 I’m currently expanding my skills within . Front end development (html, css js, bootstrap , react, solidity )
+before scaling into solidity, amongst other programming languages and frameworks that I feel 
+Could be useful in my career. 
+- 💞️ I’m looking to collaborate on essentially any project or task that could advance my skillset and knowledge,
+ that i can ultimately grow my
 - programming skills daily!
 - 📫 i can be reached via PureLmnz@Gmail.com
 
