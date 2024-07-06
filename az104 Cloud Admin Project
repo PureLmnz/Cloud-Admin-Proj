@@ -1,4 +1,61 @@
-This is a project I am working on from scratch, to focus my skills on everything that is taught in the az-104 Cloud Admin Certification with azure.
-Starting with Managing Identities and Governance in Azure.
+This is a project I am working on from scratch, with the outline designed by a.i.,
+to focus my skills on everything that is within the az-104 Azure Cloud Administrator Certification.
+Primarily for more hands-on, and to showcase my proficiency and scalable skillset on my journey 
+into the azure | cloud | network/sysadmin realm.
 
-I use Microsoft Entra ID 
+
+Here's a structured project idea (I got using chatgpt) that reflects these skills:
+
+Project: Deploy and Manage a Scalable Web Application on Azure
+
+1. Setting up the Environment
+-Create a Resource Group: Organize your resources by creating a resource group.
+-Configure Azure Active Directory (i use microsoft entra ID instead for this project):
+Set up users and groups.
+Implement role-based access control (RBAC) to manage permissions.
+
+2. Implementing and Managing Storage
+-Create Storage Accounts: Set up Azure Storage accounts for the application.
+-Configure Blob Storage: Use Blob Storage for storing unstructured data like images or files.
+Implement Azure File Shares: Set up file shares that can be mounted on VMs.
+
+3. Deploying and Managing Azure Compute Resources
+-Create Virtual Machines (VMs): Deploy VMs to host the web application.
+-Configure VM sizes based on application requirements.
+Implement VM extensions for automatic configuration and management.
+Set up Azure App Services: Deploy the web application using Azure App Services for a scalable and managed hosting environment.
+Implement Virtual Machine Scale Sets: Ensure high availability and scalability for the application by setting up VM scale sets.
+
+4. Configuring and Managing Virtual Networking
+-Create a Virtual Network (VNet): Set up a VNet to manage networking in Azure.
+-Configure subnets and network security groups (NSGs).
+Set up a VPN gateway for secure connections.
+Configure Load Balancer: Distribute incoming traffic across multiple VMs using an Azure Load Balancer.
+Implement Azure Firewall or Network Security Groups: Secure the network with appropriate firewall rules or NSGs.
+
+5. Monitoring and Backing Up Azure Resources
+-Implement Azure Monitor: Set up monitoring for the application, VMs, and other resources.
+-Configure alerts and notifications for critical events.
+Use Log Analytics to collect and analyze log data.
+Set up Azure Backup: Implement backup solutions for VMs, databases, and other critical data.
+Configure Azure Site Recovery: Ensure business continuity by setting up disaster recovery plans.
+
+6. Additional Services and Features
+-Implement Azure Key Vault: Manage and store keys, secrets, and certificates securely.
+Set up Azure SQL Database: Deploy and manage a scalable SQL database for the application.
+Integrate Azure CDN: Improve performance and scalability by integrating a Content Delivery Network.
+
+7. Documentation and Presentation
+-Document the Project: Create comprehensive documentation for each step, including configurations, commands used, and screenshots.
+-Prepare a Presentation: Summarize the project goals, architecture, implementation steps, and outcomes. Include a live demo if possible.
+Tools and Technologies
+-Azure Portal
+-Azure CLI , (bash is my preference)
+PowerShell
+Azure Resource Manager (ARM) templates
+-Terraform (optional)
+Deliverables
+Documentation: Detailed project documentation.
+Source Code: Scripts and templates used for deployment and configuration.
+Presentation: Slides summarizing the project.
+completing this project, covers the core skills required for an Azure Cloud Administrator , and demonstrate your ability to design, deploy, and manage a complex Azure environment.
