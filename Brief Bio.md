@@ -7,7 +7,7 @@
   
 - 🌱Fast forward to 2024, Where I have been shifting my focus to cloud tech, and Have been working to build and scale my skillset
   in cloud technologies, (specifically Azure) where I have acquired Certifications in Az-900 Azure Fundamentals and Az-104 Azure Administrator.
-  Along with gaining my Azure credentials I have been learning Linux and bash scripting, while i shift my focus to acquire my CCNA.
+  Along with gaining my Azure credentials I have been learning Linux and bash scripting, while i shift my focus to acquire more skills.
   
 - I’m always looking to collaborate on any project or task that I could learn from, and provide value while learning as well!
   Cheers to new knowledge, and growth along the path!
